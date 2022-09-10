@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋 I am Simon an always in motion inspired Full Stack Developer</h1>
+<h1 align="center">Hi there 👋 I am Simon an always in motion inspired Full Stack Developer</h1>
 
 I am a software developer from Armenia :armenia:
 
