@@ -2,7 +2,7 @@
 
 I am a software developer from Armenia :armenia:
 
-- :telescope: I am developing full stack applications using Javascript, PHP and their frameworks for backend and also use Redis for caching data.
+- :telescope: I am developing full stack applications using Javascript, PHP and their frameworks and also use Redis for caching data.
 - :dart: I am experienced in Laravel framework and have strong knwoledge in Object Orinted Programming and MVC design pattern.
 - :rocket: Currently I am working on a social media app based on Laravel using InertiaJS framework integrated with React and Typescript as a View Engine, also creating APIs for the attached mobile app.
 - :arrow_forward: Founder and content creator at [IT Motion](https://www.youtube.com/channel/UCFL-9mlMhhnJ-thUv0JKUtQ) youtube channel.
