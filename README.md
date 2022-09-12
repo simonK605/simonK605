@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋 I am Simon an always in motion inspired Full Stack Developer</h1>
 
-I am a software developer from Armenia :armenia:
+I am a software developer from Armenia
 
 - :telescope: I am developing full stack applications using Javascript, PHP and their frameworks and also use Redis for caching data.
 - :dart: I am experienced in Laravel framework and have strong knwoledge in Object Orinted Programming and MVC design pattern.
