@@ -57,7 +57,7 @@ I am a software developer from Armenia
 
 --- 
 ### <img src="https://github.com/simon-svg/PortfolioOld/blob/master/public/media/img/bg/icon/logo.svg" title="Portfolio" alt="Portfolio" width="20" height="20"/>&nbsp; Here is my portfolio website
-[![](https://github.com/simon-svg/PortfolioOld/blob/master/public/media/img/bg/icon/logo.svg)](https://simon.armbit.am/)
+[![](https://github.com/simon-svg/PortfolioOld/blob/master/public/media/img/bg/icon/logo.svg)](https://simonkarapetyan.com/)
 
 
 <!--
