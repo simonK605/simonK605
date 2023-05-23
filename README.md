@@ -51,6 +51,11 @@ I am a software developer from Armenia
   <img src="https://github.com/devicons/devicon/blob/master/icons/composer/composer-original.svg" title="Composer" alt="Composer" width="40" height="40"/>&nbsp;
 </div>
 
+### Amazon:
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="Amazon" alt="Amazon" width="40" height="40"/>&nbsp;
+</div>
+
 --- 
 ### <img src="https://github.com/simon-svg/PortfolioOld/blob/master/public/media/img/bg/icon/logo.svg" title="Portfolio" alt="Portfolio" width="20" height="20"/>&nbsp; Here is my portfolio website
 [![](https://github.com/simon-svg/PortfolioOld/blob/master/public/media/img/bg/icon/logo.svg)](https://simonkarapetyan.com/)
