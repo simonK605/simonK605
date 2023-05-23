@@ -53,7 +53,7 @@ I am a software developer from Armenia
 
 ### Amazon:
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="Amazon" alt="Amazon" width="40" height="40"/>&nbsp;
+  <img src="https://www.marcellus.michlibrary.org/site-assets/images/amazon-logo.jpg/@@images/image.jpeg" title="Amazon" alt="Amazon" width="40" height="40"/>&nbsp;
 </div>
 
 --- 
