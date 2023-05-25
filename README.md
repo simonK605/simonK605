@@ -41,14 +41,19 @@ I am a software developer from Armenia
 
 ### 🛠️ Tools :
 <div>
-  <img src="https://seeklogo.com/images/P/phpstorm-logo-220B633CDA-seeklogo.com.png" title="PHPStorm" alt="PHPStorm" width="40" height="40"/>&nbsp;
-  <img src="https://seeklogo.com/images/W/webstorm-logo-691E749F21-seeklogo.com.png" title="WebStorm" alt="WebStorm" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/filezilla/filezilla-plain.svg" title="Filezilla" alt="Filezilla" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/WinSCP_Logo.png?20121019215322" title="WinSCP" alt="WinSCP" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/composer/composer-original.svg" title="Composer" alt="Composer" width="40" height="40"/>&nbsp;
+  <div>
+    <img src="https://seeklogo.com/images/P/phpstorm-logo-220B633CDA-seeklogo.com.png" title="PHPStorm" alt="PHPStorm" width="40" height="40"/>&nbsp;
+    <img src="https://seeklogo.com/images/W/webstorm-logo-691E749F21-seeklogo.com.png" title="WebStorm" alt="WebStorm" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/filezilla/filezilla-plain.svg" title="Filezilla" alt="Filezilla" width="40" height="40"/>&nbsp;
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/WinSCP_Logo.png?20121019215322" title="WinSCP" alt="WinSCP" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/composer/composer-original.svg" title="Composer" alt="Composer" width="40" height="40"/>&nbsp;
+  </div>
+<div>
+    <img src="https://www.svgrepo.com/download/354202/postman-icon.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
+  </div>
 </div>
 
 ### Amazon:
