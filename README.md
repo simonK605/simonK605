@@ -61,6 +61,7 @@ I am a software developer from Armenia
 ### Amazon:
 <div>
   <img src="https://www.marcellus.michlibrary.org/site-assets/images/amazon-logo.jpg/@@images/image.jpeg" title="Amazon" alt="Amazon" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Amazon-S3-Logo.svg/1200px-Amazon-S3-Logo.svg.png" title="S3" alt="S3" width="40" height="40"/>&nbsp;
 </div>
 
 --- 
