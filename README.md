@@ -62,7 +62,7 @@ I am a software developer from Armenia
 <div>
   <img src="https://www.marcellus.michlibrary.org/site-assets/images/amazon-logo.jpg/@@images/image.jpeg" title="Amazon" alt="Amazon" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Amazon-S3-Logo.svg/1200px-Amazon-S3-Logo.svg.png" title="S3" alt="S3" width="40" height="40"/>&nbsp;
-  <img src="https://cdn-images-1.medium.com/max/360/0*uGnkedWzlM-J1bYC" title="EC2" alt="EC2" width="40" height="40"/>&nbsp;
+  <img src="https://brandslogos.com/wp-content/uploads/thumbs/aws-ec2-logo-vector.svg" title="EC2" alt="EC2" width="40" height="40"/>&nbsp;
 </div>
 
 --- 
