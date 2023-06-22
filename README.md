@@ -52,6 +52,7 @@ I am a software developer from Armenia
     <img src="https://github.com/devicons/devicon/blob/master/icons/filezilla/filezilla-plain.svg" title="Filezilla" alt="Filezilla" width="40" height="40"/>&nbsp;
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/WinSCP_Logo.png?20121019215322" title="WinSCP" alt="WinSCP" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/2101px-Adobe_Photoshop_CC_icon.svg.png" title="PS" alt="PS" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/composer/composer-original.svg" title="Composer" alt="Composer" width="40" height="40"/>&nbsp;
   </div>
