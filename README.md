@@ -43,6 +43,9 @@ I am a software developer from Armenia
     <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" title="Redis" alt="Redis" width="40" height="40"/>&nbsp;
   </div>
+  <div>
+    <img src="https://github.com/devicons/devicon/raw/master/icons/trello/trello-plain.svg" title="Trello" alt="Trello" width="40" height="40"/>&nbsp;
+  </div>
 </div>
 
 ### 🛠️ Tools :
