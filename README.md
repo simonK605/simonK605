@@ -26,6 +26,7 @@ I am a software developer from Armenia
     <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue" alt="Vue" width="40" height="40"/>&nbsp;
     <img src="https://avatars.githubusercontent.com/u/47703742?s=200&v=4" title="Inertiajs" alt="Inertiajs" width="40" height="40" />&nbsp;
+    <img src="https://github.com/devicons/devicon/raw/master/icons/jquery/jquery-original.svg" title="jQuery" alt="jQuery" width="40" height="40" />&nbsp;
   </div>
   <div>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" title="Laravel" alt="Laravel" width="40" height="40"/>&nbsp;
