@@ -7,7 +7,7 @@ I am a software developer from Armenia
 - :rocket: Capable of working with various technologies, finding different interesting solutions for hard tasks, and managing databases.
 - 🥇 Developer with unique ideas and a history of successful contributions in the field.
 - :arrow_forward: Founder and content creator at [IT Motion](https://www.youtube.com/channel/UCFL-9mlMhhnJ-thUv0JKUtQ) youtube channel.
-- :mailbox: How to find me: [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/simon-karapetyan-b048a61b5/)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/simon-karapetyan-b048a61b5/)
 
 --- 
 ### :computer: Languages, Frameworks and Libraries:
