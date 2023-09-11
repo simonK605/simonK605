@@ -23,6 +23,10 @@ I am a software developer from Armenia
     <img src="https://gw.alipayobjects.com/zos/rmsportal/rlpTLlbMzTNYuZGGCVYM.png" title="Ant design" alt="Ant design" width="40" height="40"/>&nbsp;
   </div>
   <div>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" title="Laravel" alt="Laravel" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
+  </div>
+  <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" alt="Javascript" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/raw/master/icons/jquery/jquery-original.svg" title="jQuery" alt="jQuery" width="40" height="40" />&nbsp;
@@ -32,14 +36,12 @@ I am a software developer from Armenia
     <img src="https://avatars.githubusercontent.com/u/47703742?s=200&v=4" title="Inertiajs" alt="Inertiajs" width="40" height="40" />&nbsp;
   </div>
   <div>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" title="Laravel" alt="Laravel" width="40" height="40"/>&nbsp;
     <img src="https://www.nicepng.com/png/full/207-2073547_sql-server-icon-png-29-transparent-background-database.png" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQLite" alt="SQLite" width="40" height="40"/>&nbsp;
   </div>
   <div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   </div>
   <div>
