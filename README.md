@@ -53,6 +53,7 @@ I am a software developer from Armenia
   </div>
   <div>
     <img src="https://github.com/devicons/devicon/raw/master/icons/trello/trello-plain.svg" title="Trello" alt="Trello" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   </div>
 </div>
 
