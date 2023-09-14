@@ -39,6 +39,7 @@ I am a software developer from Armenia
     <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue" alt="Vue" width="40" height="40"/>&nbsp;
     <img src="https://avatars.githubusercontent.com/u/47703742?s=200&v=4" title="Inertiajs" alt="Inertiajs" width="40" height="40" />&nbsp;
+    <img src="https://avatars.githubusercontent.com/u/51960834?s=200&v=4" title="Livewire" alt="Livewire" width="40" height="40" />&nbsp;
   </div>
   <div>
     <img src="https://www.nicepng.com/png/full/207-2073547_sql-server-icon-png-29-transparent-background-database.png" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
