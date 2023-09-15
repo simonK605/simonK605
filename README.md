@@ -60,7 +60,7 @@ I am a software developer from Armenia
     <img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original.svg" title="Bitbucket" alt="Bitbucket" width="40" height="40"/>&nbsp;
   </div>
   <div>
-    <img src="https://logos-world.net/wp-content/uploads/2021/02/Google-Cloud-Emblem.png" title="GoogleCloud" alt="GoogleCloud" width="40" height="40"/>&nbsp;
+    <img src="https://www.datamation.com/wp-content/uploads/2021/08/Google-Cloud-Logo.png" title="GoogleCloud" alt="GoogleCloud" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="Amazon" alt="Amazon" width="40" height="40"/>&nbsp;
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Amazon-S3-Logo.svg/1200px-Amazon-S3-Logo.svg.png" title="S3" alt="S3" width="40" height="40"/>&nbsp;
     <img src="https://brandslogos.com/wp-content/uploads/thumbs/aws-ec2-logo-vector.svg" title="EC2" alt="EC2" width="40" height="40"/>&nbsp;
