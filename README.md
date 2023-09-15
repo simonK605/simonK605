@@ -66,6 +66,9 @@ I am a software developer from Armenia
     <img src="https://brandslogos.com/wp-content/uploads/thumbs/aws-ec2-logo-vector.svg" title="EC2" alt="EC2" width="40" height="40"/>&nbsp;
     <img src="https://cdn.freebiesupply.com/logos/large/2x/aws-iam-logo-png-transparent.png" title="IAM" alt="IAM" width="20" height="40"/>&nbsp;
   </div>
+  <div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
+  </div>
 </div>
 
 ### 🛠️ Tools :
