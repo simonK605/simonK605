@@ -84,7 +84,11 @@ I am a software developer from Armenia
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/2101px-Adobe_Photoshop_CC_icon.svg.png" title="PS" alt="PS" width="40" height="40"/>&nbsp;
     <img src="https://www.svgrepo.com/download/354202/postman-icon.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
   </div>
-</div>
+
+---
+### 📊 Github stats:
+![Albert Arakelyan's github stats](https://github-readme-stats.vercel.app/api?username=SimonK605&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&hide=contribs,issues,stars)
+
 
 --- 
 ### <img src="https://github.com/simon-svg/PortfolioOld/blob/master/public/media/img/bg/icon/logo.svg" title="Portfolio" alt="Portfolio" width="20" height="20"/>&nbsp; Here is my portfolio website
