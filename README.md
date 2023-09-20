@@ -9,7 +9,8 @@ I am a software developer from Armenia
 - :arrow_forward: Founder and content creator at [IT Motion](https://www.youtube.com/channel/UCFL-9mlMhhnJ-thUv0JKUtQ) youtube channel.
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/simon-karapetyan-b048a61b5/)
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tsarukyana&layout=compact&theme=vision-friendly-dark)](https://github.com/tsarukyana/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simonK605&layout=compact&theme=vision-friendly-dark)](https://github.com/simonK605/github-readme-stats)
+
 --- 
 ### :computer: Languages, Frameworks and Libraries:
 
@@ -90,7 +91,7 @@ I am a software developer from Armenia
 
 ---
 ### 📊 Github stats:
-![Albert Arakelyan's github stats](https://github-readme-stats.vercel.app/api?username=SimonK605&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&hide=contribs,issues,stars)
+![Simon Karapetyan's github stats](https://github-readme-stats.vercel.app/api?username=SimonK605&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&hide=contribs,issues,stars)
 ### <img src="https://github.com/simon-svg/PortfolioOld/blob/master/public/media/img/bg/icon/logo.svg" title="Portfolio" alt="Portfolio" width="20" height="20"/>&nbsp; Here is my portfolio website
 [![](https://github.com/simon-svg/PortfolioOld/blob/master/public/media/img/bg/icon/logo.svg)](https://simonkarapetyan.com/)
 
