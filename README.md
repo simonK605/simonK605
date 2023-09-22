@@ -75,6 +75,7 @@ I am a software developer from Armenia
   </div>
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
+    <img src="https://www.freeiconspng.com/thumbs/windows-icon-png/system-windows-icon-png-4.png" title="Windows" alt="Windows" width="40" height="40"/>&nbsp;
   </div>
   <div>
     <img src="https://github.com/devicons/devicon/raw/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
