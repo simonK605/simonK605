@@ -78,7 +78,6 @@ I am a software developer from Armenia
     <img src="https://www.freeiconspng.com/thumbs/windows-icon-png/system-windows-icon-png-4.png" title="Windows" alt="Windows" width="40" height="40"/>&nbsp;
   </div>
   <div>
-    
     <img src="https://github.com/devicons/devicon/raw/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
     <img src="https://seeklogo.com/images/P/phpstorm-logo-220B633CDA-seeklogo.com.png" title="PHPStorm" alt="PHPStorm" width="40" height="40"/>&nbsp;
     <img src="https://seeklogo.com/images/W/webstorm-logo-691E749F21-seeklogo.com.png" title="WebStorm" alt="WebStorm" width="40" height="40"/>&nbsp;
