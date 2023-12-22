@@ -6,7 +6,6 @@ I am a software engineer from Armenia
 - :dart: I am experienced in Laravel framework and have strong knwoledge in Object Orinted Programming and MVC design pattern.
 - :rocket: Capable of working with various technologies, finding different interesting solutions for hard tasks, and managing databases.
 - 🥇 Developer with unique ideas and a history of successful contributions in the field.
-- :arrow_forward: Founder and content creator at [IT Motion](https://www.youtube.com/channel/UCFL-9mlMhhnJ-thUv0JKUtQ) youtube channel.
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/simon-karapetyan-b048a61b5/)
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simonK605&layout=compact&theme=vision-friendly-dark)](https://github.com/simonK605/github-readme-stats)
