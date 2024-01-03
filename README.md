@@ -21,7 +21,7 @@ I am a software engineer from Armenia
     <img src="https://github.com/devicons/devicon/raw/master/icons/less/less-plain-wordmark.svg" title="Less" alt="Less" width="40" height="40">&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind" alt="Tailwind" width="40" height="40"/>&nbsp;
-    
+    <img src="https://gw.alipayobjects.com/zos/rmsportal/rlpTLlbMzTNYuZGGCVYM.png" title="Ant design" alt="Ant design" width="40" height="40"/>&nbsp;
   </div>
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
