@@ -72,7 +72,7 @@ I am a software engineer from Armenia
   </div>
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
-    <img src="https://cdn-icons-png.flaticon.com/512/5453/5453855.png" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
+    <img src="https://cdn-icons-png.flaticon.com/512/5453/5453855.png" title="SSH" alt="SSH" width="40" height="40"/>&nbsp;
     <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_apache_icon_130750.png" title="Apache" alt="Apache" width="40" height="40"/>&nbsp;
   </div>
   <div>
