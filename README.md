@@ -82,7 +82,7 @@ I am a software engineer from Armenia
   <div>
     <img src="https://github.com/devicons/devicon/raw/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/phpstorm/phpstorm-original.svg" title="PHPStorm" alt="PHPStorm" width="40" height="40"/>&nbsp;
-    <img src="https://seeklogo.com/images/W/webstorm-logo-691E749F21-seeklogo.com.png" title="WebStorm" alt="WebStorm" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/webstorm/webstorm-original.svg" title="WebStorm" alt="WebStorm" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="PyCharm" alt="PyCharm" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/filezilla/filezilla-plain.svg" title="Filezilla" alt="Filezilla" width="40" height="40"/>&nbsp;
