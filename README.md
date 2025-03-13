@@ -2,7 +2,7 @@
 
 I am a software engineer from Armenia
 
-- :telescope: I am developing full stack applications using Javascript, PHP and their frameworks and also use Redis for caching data.
+- :telescope: I am developing full stack applications using Javascript, PHP and their frameworks.
 - :dart: I am experienced in Laravel framework and have strong knwoledge in Object Orinted Programming and MVC design pattern.
 - :rocket: Capable of working with various technologies, finding different interesting solutions for hard tasks, and managing databases. Additionally, I utilize Python for data analysis.
 - 🥇 Developer with unique ideas and a history of successful contributions in the field.
