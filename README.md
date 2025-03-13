@@ -55,6 +55,7 @@ I am a software engineer from Armenia
   </div>
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+    <img src="https://camo.githubusercontent.com/6bb26c2caf1590ef7cfb2fca973ccaa1ca891d37986789b7a670d7b45725f448/68747470733a2f2f6f70656e776869736b2e6170616368652e6f72672f696d616765732f6465706c6f796d656e74732f6c6f676f2d646f636b65722d636f6d706f73652d6e6f746578742e706e67" title="Docker Compose" alt="Docker Compose" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/portainer/portainer-original.svg" title="Portainer" alt="Portainer" width="40" height="40"/>&nbsp;
   </div>
   <div>
