@@ -35,6 +35,7 @@ I am a software engineer from Armenia
     <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="NumPy" alt="NumPy" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/raw/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
     <img src="https://www.phidgets.com/education/wp-content/uploads/2021/04/Matplotlib_icon.png" title="Matplotlib" alt="Matplotlib" width="40" height="40"/>&nbsp;
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" title="Selenium" alt="Selenium" width="40" height="40"/>&nbsp;
   </div>
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" alt="Javascript" width="40" height="40"/>&nbsp;
