@@ -100,11 +100,12 @@ I am a software engineer from Armenia
 ---
 ### 📊 Github stats:
 ![Simon Karapetyan's github stats](https://github-readme-stats.vercel.app/api?username=SimonK605&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&hide=contribs,issues,stars)
-// ### <img src="https://github.com/simon-svg/PortfolioOld/blob/master/public/media/img/bg/icon/logo.svg" title="Portfolio" alt="Portfolio" width="20" height="20"/>&nbsp; Here is my portfolio website
+
+
+<!-- ### <img src="https://github.com/simon-svg/PortfolioOld/blob/master/public/media/img/bg/icon/logo.svg" title="Portfolio" alt="Portfolio" width="20" height="20"/>&nbsp; Here is my portfolio website
 [![](https://github.com/simon-svg/PortfolioOld/blob/master/public/media/img/bg/icon/logo.svg)](https://simonkarapetyan.com/)
 
 
-<!--
 **simon-svg/simon-svg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
