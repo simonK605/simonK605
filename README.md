@@ -2,9 +2,9 @@
 
 I am a software engineer from Armenia
 
-- :telescope: I am developing full stack applications using Javascript, PHP and their frameworks.
-- :dart: I am experienced in Laravel framework and have strong knwoledge in Object Orinted Programming and MVC design pattern.
-- :rocket: Capable of working with various technologies, finding different interesting solutions for hard tasks, and managing databases. Additionally, I utilize Python for data analysis.
+- :telescope: I develop full-stack applications using JavaScript, PHP, and Python, along with their respective frameworks.
+- :dart: I have extensive experience with the Laravel framework and a strong foundation in Object-Oriented Programming and the MVC design pattern.
+- :rocket: Skilled in working with diverse technologies, solving complex problems, and managing databases efficiently. I also use Python for backend development and data analysis, leveraging frameworks such as Django and FastAPI.
 - 🥇 Developer with unique ideas and a history of successful contributions in the field.
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/simon-karapetyan-b048a61b5/)
 ---
