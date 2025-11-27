@@ -2,10 +2,20 @@
 
 I am a software engineer from Armenia
 
-- :telescope: I develop full-stack applications using JavaScript, PHP, and Python, along with their respective frameworks.
-- :dart: I have extensive experience with the Laravel framework and a strong foundation in Object-Oriented Programming and the MVC design pattern.
-- :rocket: Skilled in working with diverse technologies, solving complex problems, and managing databases efficiently. I also use Python for backend development and data analysis, leveraging frameworks such as Django and FastAPI.
-- 🥇 Developer with unique ideas and a history of successful contributions in the field.
+- 🧑‍💻 Full-stack development using JavaScript, PHP, and their related frameworks.
+- 🔄 Strong experience with Laravel, OOP principles, SOLID practices, and the MVC design pattern.
+- 🛠️ Skilled in designing complex system architectures, optimizing queries, and managing relational databases.
+- 🚀 Problem-solver capable of working with diverse technologies, exploring different solutions for challenging tasks, and improving application performance.
+- 🧩 Creative engineer with unique ideas and a track record of delivering successful results across various projects.
+- 🤖 AI-Augmented Developer using modern AI tools to boost performance, code quality, and productivity.
+  - 🧠 Proficient in using AI tools such as ChatGPT, GitHub Copilot, Cursor, Codeium, and others for:
+    - Improving development workflow
+    - Automated documentation
+    - Refactoring & code analysis
+    - Generating tests and debugging
+    - System design brainstorming
+⚙️ Experience integrating AI APIs into applications (OpenAI, Anthropic, local LLMs).
+🔍 Understanding of vector databases, embeddings, and prompt engineering.
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/simon-karapetyan-b048a61b5/)
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simonK605&layout=compact&theme=vision-friendly-dark)](https://github.com/simonK605/github-readme-stats)
